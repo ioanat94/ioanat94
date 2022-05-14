@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ioana</h1>
 <h3 align="center">An aspiring Full Stack Developer, living in Finland</h3>
 
-- 🌱 I’m currently learning **React.js** via **The Odin Project**
+- 🌱 I’m currently learning **Node.js** via **The Odin Project**
 
 - 👨‍💻 All of my projects are available at **[my github repos](https://github.com/ioanat94?tab=repositories)**
 
