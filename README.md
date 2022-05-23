@@ -13,7 +13,7 @@
 
 - 📫 Reach me at **ioanatiplea94@gmail.com**
 
-- 📄 Take a look at my **[resume](https://drive.google.com/file/d/1k0pagk8DPZ4524SrfpQQtIuAGsoZEYkI/view?usp=sharing)**
+<!-- - 📄 Take a look at my **[resume](https://drive.google.com/file/d/1k0pagk8DPZ4524SrfpQQtIuAGsoZEYkI/view?usp=sharing)** -->
 
 - ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
 
