@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 👨‍💻 All of my projects are available at **[my github repos](https://github.com/ioanat94?tab=repositories)**
+<!-- - 👨‍💻 All of my projects are available at **[my github repos](https://github.com/ioanat94?tab=repositories)** -->
 
 - 💬 Ask me about **my journey from Finance to Web Development, or my cats!**
 
