@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ioana</h1>
 <h3 align="center">An aspiring Full Stack Developer, living in Finland</h3>
 
-- 🔭 I’m currently working on **a MERN Netflix clone**
+- 🔭 I’m currently working on **[a MERN Netflix clone](https://github.com/ioanat94/netflix)**
 
 <!-- - 🌱 I’m currently learning **Node.js** via **The Odin Project** -->
 
