@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/netflix-clone-49e41.appspot.com/o/b_transparent.png?alt=media&token=0fe8a22b-c6ac-465d-a0f9-ca261269e85e" width="200"/>
-</div>
 <h1 align="center">Hi 👋, I'm Ioana</h1>
 <div align="center">
   <a href="https://www.linkedin.com/in/ioana-tiplea/">
