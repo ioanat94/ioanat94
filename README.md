@@ -28,26 +28,53 @@
 - ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px" width="60px" />&nbsp;
-  <img src="https://i.ibb.co/mNmmwKk/6202fcdee5ee8636a145a41b-1234.png" height="60px" width="60px" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/>&nbsp;
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60" height="60"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60" />&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px" width="60px" />&nbsp;
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" /></p>
+<details>
+  <summary>Programming Languages</summary>
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="60px" width="60px" />
+</details>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioanat94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ioanat94" /></p>
+<details>
+  <summary>Front End Tools</summary>
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px" width="60px" />&nbsp;
+</details>
+
+<details>
+  <summary>Back End Tools</summary>
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://i.ibb.co/mNmmwKk/6202fcdee5ee8636a145a41b-1234.png" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/>&nbsp;
+</details>
+
+<details>
+  <summary>Other Tools</summary>
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" />&nbsp; 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60" />&nbsp; 
+</details>
+
+<details>
+  <summary>Planning to learn</summary>
+    <br />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>&nbsp; 
+</details>
+
+<h3 align="left">GitHub Stats:</h3>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioanat94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ioanat94" />
