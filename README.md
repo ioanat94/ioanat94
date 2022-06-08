@@ -75,6 +75,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" width="450" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioanat94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ioanat94" />
+<p float="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" width="450" />&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ioanat94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ioanat94" /></p>
