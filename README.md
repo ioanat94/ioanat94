@@ -48,6 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px" width="60px" />&nbsp;
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark" alt="ioanat94" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ioanat94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ioanat94" /></p>
