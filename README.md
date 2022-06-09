@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working on **[a MERN Netflix clone](https://github.com/ioanat94/netflix)** -->
 
-<!-- - 🌱 I’m currently learning **Node.js** via **The Odin Project** -->
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
@@ -43,6 +43,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="60px" width="60px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="60px" width="60px" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60px" width="60px" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60px" width="60px" />&nbsp;
 </details>
 
@@ -71,7 +73,6 @@
   <summary>Planning to learn</summary>
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="60" height="60"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60" height="60"/>&nbsp; 
 </details>
 
