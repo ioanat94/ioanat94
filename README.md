@@ -11,9 +11,9 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-<!-- - 🔭 I’m currently working on **[a MERN Netflix clone](https://github.com/ioanat94/netflix)** -->
+- 🔭 I’m currently working on **designing my portfolio webpage**
 
-- 🌱 I’m currently learning **Typescript**
+<!-- - 🌱 I’m currently learning **Typescript** -->
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
