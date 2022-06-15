@@ -11,13 +11,13 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-- 🔭 I’m currently working on **designing my portfolio webpage**
+<!-- - 🔭 I’m currently working on **designing my portfolio webpage** -->
 
 <!-- - 🌱 I’m currently learning **Typescript** -->
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-<!-- - 💻 All of my projects are available at **[my github repos](https://github.com/ioanat94?tab=repositories)** -->
+- 💻 Check out **[my portfolio website](https://ioanatiplea.dev)**
 
 - 💬 Ask me about **my journey from Finance to Web Development, or my cats!**
 
