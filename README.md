@@ -11,7 +11,7 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-<!-- - 🔭 I’m currently working on **designing my portfolio webpage** -->
+- 🔭 I’m currently working on **a food ordering app**
 
 <!-- - 🌱 I’m currently learning **Typescript** -->
 
