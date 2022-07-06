@@ -11,7 +11,7 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-- 🔭 I’m currently working on **a food ordering app**
+- 🔭 I recently built **[a food ordering app](https://github.com/ioanat94/burgrrr)**
 
 <!-- - 🌱 I’m currently learning **Typescript** -->
 
@@ -22,8 +22,6 @@
 - 💬 Ask me about **my journey from Finance to Web Development, or my cats!**
 
 - 📫 Reach me at **ioanatiplea94@gmail.com**
-
-<!-- - 📄 Take a look at my **[resume](https://drive.google.com/file/d/1k0pagk8DPZ4524SrfpQQtIuAGsoZEYkI/view?usp=sharing)** -->
 
 - ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
 
@@ -55,7 +53,6 @@
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px" width="60px" />&nbsp;
     <img src="https://i.ibb.co/mNmmwKk/6202fcdee5ee8636a145a41b-1234.png" height="60px" width="60px" />&nbsp;
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="60"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/>&nbsp;
 </details>
 
@@ -70,12 +67,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="60" height="60" />&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" />&nbsp; 
 </details>
-
-<!-- <details>
-  <summary>Planning to learn</summary>
-    <br />
-    
-</details> -->
 
 <h3 align="left">GitHub Stats:</h3>
 
