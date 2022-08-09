@@ -13,7 +13,7 @@
 
 - 🔭 I recently built **[a food ordering app](https://github.com/ioanat94/burgrrr)**
 
-<!-- - 🌱 I’m currently learning **Typescript** -->
+- 🌱 I’m currently a Full Stack Academy Student at **[Integrify](https://www.integrify.io/)**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
