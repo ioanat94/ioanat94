@@ -6,7 +6,7 @@
 </div>
 <br />
 
-<div align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="480"/></div>
+<div align="center"><img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" max-width="480"/></div>
 <br />
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
