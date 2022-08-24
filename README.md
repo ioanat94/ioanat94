@@ -70,6 +70,7 @@
 
 # Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Do&#39;s and Don&#39;ts of Creating Your Portfolio Website](https://blog.ioanatiplea.dev/dos-and-donts-of-creating-your-portfolio-website)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">GitHub Stats:</h3>
