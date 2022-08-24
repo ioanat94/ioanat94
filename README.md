@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
 
-<h3 align="left">👨‍💻 Languages and Tools:</h3>
+### 👨‍💻 Languages and Tools:
 
 <details>
   <summary>Programming Languages</summary>
@@ -68,12 +68,12 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" height="60" />&nbsp; 
 </details>
 
-<h3 align="left">📚 Latest Blog Posts</h3>
+### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Do&#39;s and Don&#39;ts of Creating Your Portfolio Website](https://blog.ioanatiplea.dev/dos-and-donts-of-creating-your-portfolio-website)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📊 GitHub Stats:
 
 <p float="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" width="450" />&nbsp;&nbsp;
