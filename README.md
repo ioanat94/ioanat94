@@ -11,7 +11,7 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-- 🔭 I recently built **[a food ordering app](https://github.com/ioanat94/burgrrr)**
+- 🔭 I recently built **[a pet store app](https://github.com/ioanat94/petlify)**
 
 - 🌱 I’m currently a Full Stack Academy Student at **[Integrify](https://www.integrify.io/)**
 
