@@ -73,6 +73,7 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Core JavaScript: Scope](https://blog.ioanatiplea.dev/core-javascript-scope)
 - [Core JavaScript: Hoisting](https://blog.ioanatiplea.dev/core-javascript-hoisting)
 - [Core JavaScript: Var vs. Let vs. Const](https://blog.ioanatiplea.dev/core-javascript-var-vs-let-vs-const)
 - [Core JavaScript: Primitive vs. Non-primitive Data Types](https://blog.ioanatiplea.dev/core-javascript-primitive-vs-non-primitive-data-types)
