@@ -11,9 +11,9 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-- 🔭 I recently built **[a pet store app](https://github.com/ioanat94/petlify)**
+- 👀 I'm currently planning my next project: **Sportspals**, an app where you can find people to play sports with!
 
-- 🌱 I’m currently a Full Stack Academy Student at **[Integrify](https://www.integrify.io/)**
+- 🌱 I’m currently a Full Stack Developer Trainee at **[Integrify](https://www.integrify.io/)**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
