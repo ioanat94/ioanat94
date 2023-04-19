@@ -11,15 +11,13 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-- 👀 I'm currently planning my next project: **Sportspals**, an app where you can find people to play sports with!
-
 - 🌱 I’m currently a Full Stack Developer Trainee at **[Integrify](https://www.integrify.io/)**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 💻 Check out **[my portfolio website](https://ioanatiplea.dev)**
 
-- 💬 Ask me about **my journey from Finance to Web Development, or my cats!**
+- 💬 Ask me about **my journey from Finance to Web Development!**
 
 - 📫 Reach me at **ioanatiplea94@gmail.com**
 
