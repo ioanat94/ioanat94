@@ -73,9 +73,3 @@
 - [Core JavaScript: Primitive vs. Non-primitive Data Types](https://blog.ioanatiplea.dev/core-javascript-primitive-vs-non-primitive-data-types)
 - [Do&#39;s and Don&#39;ts of Creating Your Portfolio Website](https://blog.ioanatiplea.dev/dos-and-donts-of-creating-your-portfolio-website)
 <!-- BLOG-POST-LIST:END -->
-
-### 📊 GitHub Stats:
-
-<p float="left">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ioanat94&show_icons=true&locale=en&theme=vision-friendly-dark&count_private=true" alt="ioanat94" width="450" />&nbsp;&nbsp;
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=ioanat94&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="ioanat94" /></p>
