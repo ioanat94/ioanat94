@@ -62,7 +62,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60"/>&nbsp; 
     <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="60" height="60"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>&nbsp; 
-    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="60" height="60"/>&nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="60" height="60"/>&nbsp; 
+    <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="60"/>&nbsp;
 </details>
 
 ### 📚 Latest Blog Posts
