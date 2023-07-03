@@ -49,16 +49,18 @@
   <summary>Back End Tools</summary>
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60" width="60" />&nbsp;
-    <img src="https://i.ibb.co/mNmmwKk/6202fcdee5ee8636a145a41b-1234.png" height="60" width="60" />&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" width="60" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="60" width="60" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60" />&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="60" height="60" />&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/17219288?s=280&v=4" width="60" height="60" />&nbsp;
 </details>
 
 <details>
   <summary>Other Tools</summary>
     <br />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60" height="60"/>&nbsp; 
+    <img src="https://media.slid.es/avatars/1098231/Cypress_Logomark_Color_Dark_BG.jpg" width="60" height="60"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="60" height="60"/>&nbsp; 
     <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="60" height="60"/>&nbsp;
 </details>
