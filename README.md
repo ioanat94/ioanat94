@@ -65,12 +65,3 @@
     <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" width="60" height="60"/>&nbsp; 
     <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="60" height="60"/>&nbsp;
 </details>
-
-### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Core JavaScript: Scope](https://blog.ioanatiplea.dev/core-javascript-scope)
-- [Core JavaScript: Hoisting](https://blog.ioanatiplea.dev/core-javascript-hoisting)
-- [Core JavaScript: Var vs. Let vs. Const](https://blog.ioanatiplea.dev/core-javascript-var-vs-let-vs-const)
-- [Core JavaScript: Primitive vs. Non-primitive Data Types](https://blog.ioanatiplea.dev/core-javascript-primitive-vs-non-primitive-data-types)
-- [Do&#39;s and Don&#39;ts of Creating Your Portfolio Website](https://blog.ioanatiplea.dev/dos-and-donts-of-creating-your-portfolio-website)
-<!-- BLOG-POST-LIST:END -->
