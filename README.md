@@ -25,11 +25,11 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Scout-A-Route Devlog #1 - Idea, Stack &amp; Research](https://blog.ioanatiplea.dev/scout-a-route-devlog-1-idea-stack-research)
 - [Core JavaScript: Scope](https://blog.ioanatiplea.dev/core-javascript-scope)
 - [Core JavaScript: Hoisting](https://blog.ioanatiplea.dev/core-javascript-hoisting)
 - [Core JavaScript: Var vs. Let vs. Const](https://blog.ioanatiplea.dev/core-javascript-var-vs-let-vs-const)
 - [Core JavaScript: Primitive vs. Non-primitive Data Types](https://blog.ioanatiplea.dev/core-javascript-primitive-vs-non-primitive-data-types)
-- [Do&#39;s and Don&#39;ts of Creating Your Portfolio Website](https://blog.ioanatiplea.dev/dos-and-donts-of-creating-your-portfolio-website)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Languages and Tools:
