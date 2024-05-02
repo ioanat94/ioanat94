@@ -25,11 +25,11 @@
 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [I wrote a script that starts the workday for me](https://blog.ioanatiplea.dev/i-wrote-a-script-that-starts-the-workday-for-me)
 - [Scout-A-Route Devlog #3 - Figma &amp; Starting to Code](https://blog.ioanatiplea.dev/scout-a-route-devlog-3-figma-starting-to-code)
 - [Scout-A-Route Devlog #2 - Project Setup](https://blog.ioanatiplea.dev/scout-a-route-devlog-2-project-setup)
 - [Scout-A-Route Devlog #1 - Idea, Stack &amp; Research](https://blog.ioanatiplea.dev/scout-a-route-devlog-1-idea-stack-research)
 - [Core JavaScript: Scope](https://blog.ioanatiplea.dev/core-javascript-scope)
-- [Core JavaScript: Hoisting](https://blog.ioanatiplea.dev/core-javascript-hoisting)
 <!-- BLOG-POST-LIST:END -->
 
 ### 👨‍💻 Languages and Tools:
