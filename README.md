@@ -32,6 +32,7 @@
 - [Core JavaScript: Primitive vs. Non-primitive Data Types](https://blog.ioanatiplea.dev/core-javascript-primitive-vs-non-primitive-data-types)
 <!-- BLOG-POST-LIST:END -->
 
+<!-- 
 ### 👨‍💻 Languages and Tools:
 
 <details>
@@ -78,3 +79,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="60" height="60"/>&nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" width="60" height="60"/>&nbsp;
 </details>
+-->
