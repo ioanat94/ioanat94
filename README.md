@@ -22,10 +22,10 @@
 - 📫 Reach me at **ioanatiplea94@gmail.com**
 
 - ⚡ Fun fact: **Cats' nose pads are ridged with a unique pattern, just like the fingerprint of a human.**
-
+<!-- 
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [I wrote a script that starts the workday for me](https://blog.ioanatiplea.dev/i-wrote-a-script-that-starts-the-workday-for-me)
+<!-- - [I wrote a script that starts the workday for me](https://blog.ioanatiplea.dev/i-wrote-a-script-that-starts-the-workday-for-me)
 - [Core JavaScript: Scope](https://blog.ioanatiplea.dev/core-javascript-scope)
 - [Core JavaScript: Hoisting](https://blog.ioanatiplea.dev/core-javascript-hoisting)
 - [Core JavaScript: Var vs. Let vs. Const](https://blog.ioanatiplea.dev/core-javascript-var-vs-let-vs-const)
