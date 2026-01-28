@@ -13,7 +13,7 @@
 
 - 👨‍💻 I am a Full Stack Developer living in Finland
 
-- 🌱 I’m currently working as a Software Developer at **[Zimple](https://zimple.io/)**
+<!-- - 🌱 I’m currently working as a Software Developer at **[Zimple](https://zimple.io/)** -->
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
