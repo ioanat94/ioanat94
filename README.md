@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
-- 💻 Check out **[my portfolio website](https://ioanatiplea.dev)**
+- 💻 Check out **[my personal website](https://ioanatiplea.dev)**
 
 - 💬 Ask me about **my journey from Finance to Web Development!**
 
