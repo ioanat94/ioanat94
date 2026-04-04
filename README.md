@@ -19,7 +19,7 @@
 
 - 💻 Check out **[my personal website](https://ioanatiplea.dev)**
 
-- 💬 Ask me about **my journey from Finance to Web Development!**
+- 💬 Ask me about **my journey from Finance to Software Development!**
 
 - 📫 Reach me at **ioanatiplea94@gmail.com**
 
