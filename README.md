@@ -11,7 +11,7 @@
 </div>
 <br />
 
-- 👨‍💻 I am a Full Stack Developer living in Finland
+- 👨‍💻 I am a Software Developer living in Finland
 
 <!-- - 🌱 I’m currently working as a Software Developer at **[Zimple](https://zimple.io/)** -->
 
